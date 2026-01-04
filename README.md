@@ -182,6 +182,7 @@ Claim settlement efficiency varies by policy type, requiring **targeted operatio
 ---
 
 ## 🚀 Next Steps
+- Sentiment analysis using Insurance+Customer+Feedback.xlsx data
 - Implement **DirectQuery with MSSQL** for real-time dashboards
 - Add **fraud detection** and **claim severity analysis**
 - Build **SLA tracking** for claim settlement timelines
